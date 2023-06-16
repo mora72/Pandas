@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="083d113f-abef-475f-aa28-29d9baff0e70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfFTzltVcrIM7zeddlGfUkfH6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bikes">
+    <configuration name="Ratings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ratings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bikes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\carlo\PycharmProjects\Pandas\bikes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bikes" />
+        <item itemvalue="Python.Ratings" />
+        <item itemvalue="Python.numpy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="083d113f-abef-475f-aa28-29d9baff0e70" name="Default Changelist" comment="" />
+      <created>1581429254034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581429254034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="-794" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581429280019">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state x="258" y="-794" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1581429280019" />
+    <state x="4" y="-697" key="#xdebugger.XInspectDialog" timestamp="1583595489162">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state x="4" y="-697" key="#xdebugger.XInspectDialog/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1583595489162" />
+    <state width="1579" height="324" key="GridCell.Tab.0.bottom" timestamp="1582774304303">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state width="1259" height="268" key="GridCell.Tab.0.bottom/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656979168" />
+    <state width="1579" height="324" key="GridCell.Tab.0.bottom/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582774304303" />
+    <state width="1579" height="324" key="GridCell.Tab.0.center" timestamp="1582774304303">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state width="1259" height="268" key="GridCell.Tab.0.center/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656979167" />
+    <state width="1579" height="324" key="GridCell.Tab.0.center/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582774304303" />
+    <state width="1579" height="324" key="GridCell.Tab.0.left" timestamp="1582774304303">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state width="1259" height="268" key="GridCell.Tab.0.left/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656979167" />
+    <state width="1579" height="324" key="GridCell.Tab.0.left/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582774304303" />
+    <state width="1579" height="324" key="GridCell.Tab.0.right" timestamp="1582774304303">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state width="1259" height="268" key="GridCell.Tab.0.right/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656979167" />
+    <state width="1579" height="324" key="GridCell.Tab.0.right/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582774304303" />
+    <state x="305" y="-807" key="SettingsEditor" timestamp="1582834318134">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state x="241" y="6" key="SettingsEditor/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656105059" />
+    <state x="305" y="-807" key="SettingsEditor/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582834318134" />
+    <state x="500" y="-625" key="com.intellij.ide.util.TipDialog" timestamp="1582945239855">
+      <screen x="4" y="-900" width="1600" height="900" />
+    </state>
+    <state x="397" y="220" key="com.intellij.ide.util.TipDialog/0.0.1280.720/4.-900.1600.900@0.0.1280.720" timestamp="1582656048815" />
+    <state x="500" y="-625" key="com.intellij.ide.util.TipDialog/0.0.1280.720/4.-900.1600.900@4.-900.1600.900" timestamp="1582945239855" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ratings.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
